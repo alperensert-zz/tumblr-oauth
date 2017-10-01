@@ -12,6 +12,6 @@ Edit config.php and have fun!<br/>
 <b>TumblrOauth:</b> GET | $info = $connection->$connection->get("user/info");
 ## post
 <b>HTTPS:</b> HTTPS://api.tumblr.com/v2/blog/peacecorps.tumblr.com/posts/text?notes_info=true<br/>
-<b>TumblrOauth:</b> POST | $info = $connection->$connection->post("blog/{blog-identifier}/posts/{post-types}");<br/>
+<b>TumblrOauth:</b> POST | $info = $connection->post("blog/{blog-identifier}/posts/{post-types}");<br/>
 ### if you need help, please send me a mail: sertalperen99@gmail.com
 I respond quickly.
