@@ -13,5 +13,5 @@ Edit config.php and have fun!<br/>
 ## post
 <b>HTTPS:</b> HTTPS://api.tumblr.com/v2/blog/peacecorps.tumblr.com/posts/text?notes_info=true<br/>
 <b>TumblrOauth:</b> POST | $info = $connection->post("blog/{blog-identifier}/posts/{post-types}");<br/>
-### if you need help, please send me a mail: sertalperen99@gmail.com
+### if you need help, please send me a mail: alperensert@yahoo.com
 I respond quickly.
